@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gonzaheinzen
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning the bases of the web development
+- 📫 How to reach me. gonzalowheinzen@gmail.com - Instagram: @gonzaheinzen
