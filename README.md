@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gonzaheinzen
-- 👀 I’m interested in programming in general
+- 💻 Full Stack Developer (C# .NET / React)
 - 📫 How to reach me. gonzalowheinzen@gmail.com
